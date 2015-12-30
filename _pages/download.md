@@ -21,21 +21,24 @@ gr_overridden:
 
 **Requirements** 
 *   C++ compiler with C++11 features (gcc>=4.7, clang >= 3.0, VS14,...) 
-    *   [cmake][4] to generate the project and compile the library (>=2.6)
-    *   [boost][5] (>= 1.46)</ul> Optional dependencies: 
-    *   [Gnu Multiprecision Arithmetic Library][6] (GMP) (arbitrarily large integers)
-    *   [libQGLViewer][7] interactive viewer of 3D objects (see "stream 3D" in the documentation), libQGLViewer would require to have OpenGL and QT4 installed on your system.
-    *   [CGAL][8] (to be able to consider point cloud based differential estimators).
-    *   [InsightToolkit][9] (ITK) to merge ITK pipelines in DGtal via the image container.
-    *   [GraphicsMagick ][10](to be able to load various image file formats)
-    *   [doxygen][11] (to generate the source code documentation)
-    *   C++ compiler with cpp0x instructions (gcc >= 4.4, Visual C++ 2010, ...)
-    **How to build the library** See also [ the dedicated page][12] in the DGtal documentation. 
-    *   Linux (command line) 
+*   [cmake][4] to generate the project and compile the library (>=2.6)
+*   [boost][5] (>= 1.46)</ul> 
+    
+**Optional dependencies**
+*   [Gnu Multiprecision Arithmetic Library][6] (GMP) (arbitrarily large integers)
+*   [libQGLViewer][7] interactive viewer of 3D objects (see "stream 3D" in the documentation), libQGLViewer would require to have OpenGL and QT4 installed on your system.
+*   [CGAL][8] (to be able to consider point cloud based differential estimators).
+*   [InsightToolkit][9] (ITK) to merge ITK pipelines in DGtal via the image container.
+*   [GraphicsMagick ][10](to be able to load various image file formats)
+*   [doxygen][11] (to generate the source code documentation)
+*   C++ compiler with cpp0x instructions (gcc >= 4.4, Visual C++ 2010, ...)
+    
+**How to build the library** See also [ the dedicated page][12] in the DGtal documentation. 
+*   Linux (command line) 
         *   get the code -> DGtal/
         *   `mkdir build ; cd build ; cmake .. ; make`
         *   if you wish, you can "install" the library in your system: ` sudo make install`
-    *   Windows 
+*   Windows 
         *   use cmake-gui to generate the VS project for instance
         *   open the DGtal project and compile with Visual Studio
 
