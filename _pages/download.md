@@ -10,21 +10,25 @@ published: true
 gr_overridden:
   - "0"
 ---
-**Releases** 
+==Releases==
+
 *   Last stable DGtal release: [DGtal-0.9.0-Source.tar.gz][1]
 *   [All releases][2]
 
-**Development version** 
+==Development version== 
+
 *   Read-only git access (development branch): `git clone git://github.com/DGtal-team/DGtal.git`
 *   You can also browse the [source.][3]
 *   If you want to contribute, please contact us or submit a proposal through a Github Pull-Request.
 
-**Requirements** 
+==Requirements== 
+
 *   C++ compiler with C++11 features (gcc>=4.7, clang >= 3.0, VS14,...) 
 *   [cmake][4] to generate the project and compile the library (>=2.6)
 *   [boost][5] (>= 1.46)</ul> 
     
-**Optional dependencies**
+==Optional dependencies==
+
 *   [Gnu Multiprecision Arithmetic Library][6] (GMP) (arbitrarily large integers)
 *   [libQGLViewer][7] interactive viewer of 3D objects (see "stream 3D" in the documentation), libQGLViewer would require to have OpenGL and QT4 installed on your system.
 *   [CGAL][8] (to be able to consider point cloud based differential estimators).
@@ -33,7 +37,9 @@ gr_overridden:
 *   [doxygen][11] (to generate the source code documentation)
 *   C++ compiler with cpp0x instructions (gcc >= 4.4, Visual C++ 2010, ...)
     
-**How to build the library** See also [ the dedicated page][12] in the DGtal documentation. 
+==How to build the library==
+See also [ the dedicated page][12] in the DGtal documentation. 
+
 *   Linux (command line) 
         *   get the code -> DGtal/
         *   `mkdir build ; cd build ; cmake .. ; make`
