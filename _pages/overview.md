@@ -14,20 +14,20 @@ ninja_forms_form:
 ---
 ### Project DGtal
 
-The collaborative project <a title="DGtal" href="http://dgtal.org">DGtal</a> aims at developing generic, efficient and reliable digital geometry data structures, algorithms and tools. It takes the form of an open-source C++ library DGtal and a set of tools and binaries DGtalTools.
+The collaborative project [DGtal][3] aims at developing generic, efficient and reliable digital geometry data structures, algorithms and tools. It takes the form of an open-source C++ library DGtal and a set of tools and binaries DGtalTools.
 
 ### Overview of digital geometry
 
 <a title="Digital Geometry" href="http://en.wikipedia.org/wiki/Digital_geometry">Digital geometry</a> aims at defining proper geometric models and properties onto subsets of the integer plane/space ($\mathbb{Z}^d$). It is also interested in defining efficient algorithms for digital object topology and geometry processing. Natural applications of digital geometry are found in <strong>image</strong> <strong>analysis</strong>, since images are digital by nature. Digital geometry finds also applications in pattern recognition, computer graphics, biomedical  image analysis, OCR, 3D imaging.
-</p>
 
-Even if the domain emerged during the second half of the 20th century with the birth of computer graphics and digital image processing, many links have been demonstrated between Digital Geometry results and fundamental theorems in mathematics (arithmetic, geometry, topology, ...), discrete mathematics (word theory, combinatorics, graph theory, ...) or computer science (algorithmic, computational geometry, image processing, ...).
+
+Even if the domain emerged during the second half of the 20th century with the birth of computer graphics and digital image processing, many links have been demonstrated between Digital Geometry results and fundamental theorems in mathematics (arithmetic, geometry, topology...), discrete mathematics (word theory, combinatorics, graph theory...) or computer science (algorithmic, computational geometry, image processing...).
 
 Have a look to the <a title="Gallery" href="http://dgtal.org/gallery/">Gallery</a> for digital geometry illustrations in DGtal.
 
 ###  Objectives of DGtal Project
 
-<a title="DGtal" href="http://dgtal.org">DGtal</a> gathers in a unified setting many data structures and algorithms of digital geometry and related fields (digital topology, image processing, discrete geometry, arithmetic). It aims at fulfilling several objectives.
+[DGtal][3] gathers in a unified setting many data structures and algorithms of digital geometry and related fields (digital topology, image processing, discrete geometry, arithmetic). It aims at fulfilling several objectives.
 
 * It structures, in a unified and ready-to-use setting, different developments of the digital geometry and topology community.
 * It makes easier the appropriation of our tools for neophytes (new PhD students, researchers from other fields, ...).
@@ -38,9 +38,7 @@ Have a look to the <a title="Gallery" href="http://dgtal.org/gallery/">Gallery</
 
 ### Packaging
 
-The project is composed of two main packages 
-
-[DGtal ][1](main library) and [DGtalTools][2] which contains several tools built on DGtal. 
+The project is composed of two main packages: [DGtal ][1](main library) and [DGtalTools][2] which contains several tools built on DGtal. 
 
 ### Features Digital Geometry Tools and Algorithms 
 
