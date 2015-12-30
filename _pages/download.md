@@ -17,7 +17,7 @@ gr_overridden:
 **Development version** 
 *   Read-only git access (development branch): `git clone git://github.com/DGtal-team/DGtal.git`
 *   You can also browse the [source.][3]
-*   If you want a full access to the git (read+write), please contact us.
+*   If you want to contribute, please contact us or submit a proposal through a Github Pull-Request.
 
 **Requirements** 
 *   C++ compiler with C++11 features (gcc>=4.7, clang >= 3.0, VS14,...) 
