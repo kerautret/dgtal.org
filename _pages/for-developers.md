@@ -12,7 +12,9 @@ gr_overridden:
 ninja_forms_form:
   - "0"
 ---
-If you want to contribute to the DGtal library, contact the DGtal Editorial Board. For technical details on the DGtal project, have a look to the [doxygen nightly build documentation][1]. Recommended pages: 
+If you want to contribute to the DGtal library, contact the DGtal Editorial Board. For technical details on the DGtal project, have a look to the [doxygen nightly build documentation][1]. 
+
+Recommended pages: 
 
 * [cmake and DGtal build system][2]
 * [DGtal Git/github workflow ][3]
