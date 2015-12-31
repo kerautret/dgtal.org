@@ -18,6 +18,7 @@ gr_options:
 ---
 
 [DGtalTools][1] is a separate github project containing tools constructed using DGtal library. The main goal of this part is to gather simple and useful tools exploiting the structures and algorithms defined in DGtal. The resulting tools could be useful to: 
+
 * Share and apply DGtal algorithms to various data from different domains. 
 * Construct demonstration tools like online demonstrations (as for instance the one of the [Image Processing Online][2]). 
 * Simplify comparisons of different algorithms with an single framework. 
@@ -51,7 +52,7 @@ The source code of the tools can also be used to non DGtal familiar user to sho
  * <span style="color: #00008b"><span style="color: #00008b">vol2sdp</span><span style="font-size: 16px">: a simple tools to extract digital points from 3d vol files.</span></span> 
  * <span style="color: #00008b"> vol2slice</span>: tool to extract all slices from 3d volumic images. 
  * <span style="color: #8b0000">volAddNoise</span>: a new tool to add noise (Kanungo's) to a binary 3D object. 
- *<span style="color: #00008b"> volBoundary2obj</span>: a simple tool to export the boundary of a an object in a volumetric file to OBJ. 
+ * <span style="color: #00008b"> volBoundary2obj</span>: a simple tool to export the boundary of a an object in a volumetric file to OBJ. 
 
 * **<span style="color: #00008b">distanceTransform/</span>**: 
  * <span style="color: #00008b">LUTBasedNSDistanceTransform</span>: Compute the 2D translated neighborhood-sequence distance transform of a binary imag 
