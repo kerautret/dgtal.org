@@ -4,17 +4,17 @@ post_title: >
   DGtal – Digital Geometry Tools and
   Algorithms
 author:
-  - David Coeurjolly
+  - 'a:1:{i:0;s:16:"David Coeurjolly";}'
 post_date:
-  - 2010-06-03 13:17:01
+  - 'a:1:{i:0;s:19:"2010-06-03 13:17:01";}'
 post_excerpt:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 layout: page
 permalink:
-  - /
+  - 'a:1:{i:0;s:1:"/";}'
 published: true
 gr_overridden:
-  - 'a:1:{i:0;s:1:"0";}'
+  - 'a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}'
 ---
 ### Project DGtal
 
