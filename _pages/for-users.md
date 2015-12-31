@@ -28,12 +28,11 @@ TARGET_LINK_LIBRARIES(helloworld ${DGTAL_LIBRARIES})
 </code> 
 See the [documentation][1] for details. DGtal is a free-software (Lesser Gnu Privacy License - LGPL) so you can freely use it and distribute it. However, if you use DGtal in your own project, we would be pleased to be kept in touch. If you want to refer to DGtal in your publications, please use the following bibtex entry:
 
-    @Misc{DGtal,
-    title = {{D}{G}tal: Digital Geometry tools and algorithms library},
-    note = {\url{http://dgtal.org}}
-    }
-    
-
+<code language="bibtex">@Misc{DGtal,
+title = {{D}{G}tal: Digital Geometry tools and algorithms library},
+note = {\url{http://dgtal.org}}
+}
+</code> 
 ## Projects/Publications using DGtal
 
 *   ANR Grant [digitalSnow][2] (ANR-11-BS02-009) "Digital Geometry and Applied Mathematics for Snow Metamorphism"
