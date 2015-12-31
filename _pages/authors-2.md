@@ -12,14 +12,14 @@ gr_overridden:
 ninja_forms_form:
   - "0"
 ---
-**DGtal Editorial Board** 
+###DGtal Editorial Board
 * David Coeurjolly (LIRIS, CNRS)
 * Jacques-Olivier Lachaud (LAMA, Université de Savoie)
 
-**DGtalTools Package Manager** 
+###DGtalTools Package Manager
 * Bertrand Kerautret (LORIA, Université Henri Poincaré Nancy 1)
 
-**Main development team** 
+###Main development team
 * David Coeurjolly (LIRIS, CNRS)
 * Guillaume Damiand (LIRIS, CNRS)
 * Pierre Gueth (LIRIS, CNRS)
@@ -27,16 +27,16 @@ ninja_forms_form:
 * Bertrand Kerautret (LORIA, Université Henri Poincaré Nancy 1)
 * Adrien Krähenbühl (LORIA)
 * Jacques-Olivier Lachaud (LAMA, Université de Savoie)
-* Jérémy Levallois (LIRIS - LAMA, Insa-Lyon)
+* Jérémy Levallois (LIRIS - LAMA, INSA-Lyon)
 * Nicolas Normand (IRCCyN, Université de Nantes)
 * Xavier Provençal (LAMA, Université de Savoie)
 * Laurent Provot (LORIA, Université Henri Poincaré Nancy 1)
 * Tristan Roussillon (LIRIS, Université Lumière Lyon 2)
-* Isabelle Sivignon (gipsa-lab, CNRS)
+* Isabelle Sivignon (GIPSA-lab, CNRS)
 * Martial Tola (LIRIS, CNRS)
 
-<strong style="font-size: 16px;">Students</strong> 
-* Anis Benyoub (LIRIS, Insa-Lyon)
-* Jérémy Gaillard (LIRIS, Insa-Lyon)
-* Xi Wang (LIRIS - CEN Météofrance)
-* Nicolas Silva (LIRIS, Insa-Lyon)
+###Students
+* Anis Benyoub (LIRIS, INSA-Lyon)
+* Jérémy Gaillard (LIRIS, INSA-Lyon)
+* Xi Wang (LIRIS - CEN Météo-France)
+* Nicolas Silva (LIRIS, INSA-Lyon)
