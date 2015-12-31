@@ -59,10 +59,10 @@ The source code of the tools can also be used to non DGtal familiar user to sho
  * <span style="color: #00008b"> CumulativeSequenceTest</span> and <span style="color: #00008b">RationalBeattySequenceTest</span>: tests from LUTBasedNSDistanceTransform. 
 * * **estimators/**: 
  * <span style="color: #00008b">2dLocalEstimators</span>: program to compare local curvature/tangent estimators on implicit shapes: 
-  * Maximal DSS based estimators 
-  * Maximal DCA based estimators 
-  * Binomial convolver based estimators 
-  * Integral Invariants based estimators 
+   * Maximal DSS based estimators 
+   * Maximal DCA based estimators 
+   * Binomial convolver based estimators 
+   * Integral Invariants based estimators 
  * <span style="color: #00008b">3dLocalEstimators</span>: program to compare 3D local curvature estimators  (mean, gaussian and principal curvatures) on 3D implicit shapes  with integral invariant and monge via jet fitting (with also noise robustness measure). 
  * <span style="color: #00008b">curvatureBC</span>: curvature estimator using the Binomial convolver. 
  * <span style="color: #00008b">curvatureMCMS</span>: curvature estimator using the maximal segments cover (to be updated for current DGtal version). 
