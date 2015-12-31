@@ -57,7 +57,8 @@ The source code of the tools can also be used to non DGtal familiar user to sho
 * **<span style="color: #00008b">distanceTransform/</span>**: 
  * <span style="color: #00008b">LUTBasedNSDistanceTransform</span>: Compute the 2D translated neighborhood-sequence distance transform of a binary imag 
  * <span style="color: #00008b"> CumulativeSequenceTest</span> and <span style="color: #00008b">RationalBeattySequenceTest</span>: tests from LUTBasedNSDistanceTransform. 
-* * **estimators/**: 
+
+* **estimators/**: 
  * <span style="color: #00008b">2dLocalEstimators</span>: program to compare local curvature/tangent estimators on implicit shapes: 
    * Maximal DSS based estimators 
    * Maximal DCA based estimators 
