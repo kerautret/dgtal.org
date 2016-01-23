@@ -25,7 +25,7 @@ gr_overridden:
 
 *   C++ compiler with C++11 features (gcc>=4.7, clang >= 3.0, VS14,...)
 *   [cmake][4] to generate the project and compile the library (>=2.6)
-*   [boost][5] (>= 1.46)</ul>
+*   [boost][5] (>= 1.46)
 
 ### Optional dependencies
 
