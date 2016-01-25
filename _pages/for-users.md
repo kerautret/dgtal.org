@@ -2,24 +2,24 @@
 ID: 261
 post_title: For users
 author:
-  - 'a:1:{i:0;s:70:"a:1:{i:0;s:52:"a:1:{i:0;s:34:"a:1:{i:0;s:16:"David Coeurjolly";}";}";}";}'
+  - 'a:1:{i:0;s:88:"a:1:{i:0;s:70:"a:1:{i:0;s:52:"a:1:{i:0;s:34:"a:1:{i:0;s:16:"David Coeurjolly";}";}";}";}";}'
 post_date:
-  - 'a:1:{i:0;s:73:"a:1:{i:0;s:55:"a:1:{i:0;s:37:"a:1:{i:0;s:19:"2011-07-29 18:31:23";}";}";}";}'
+  - 'a:1:{i:0;s:91:"a:1:{i:0;s:73:"a:1:{i:0;s:55:"a:1:{i:0;s:37:"a:1:{i:0;s:19:"2011-07-29 18:31:23";}";}";}";}";}'
 post_excerpt:
-  - 'a:1:{i:0;s:53:"a:1:{i:0;s:35:"a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}";}";}'
+  - 'a:1:{i:0;s:71:"a:1:{i:0;s:53:"a:1:{i:0;s:35:"a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}";}";}";}'
 layout: page
 permalink:
-  - 'a:1:{i:0;s:65:"a:1:{i:0;s:47:"a:1:{i:0;s:29:"a:1:{i:0;s:11:"/for-users/";}";}";}";}'
+  - 'a:1:{i:0;s:83:"a:1:{i:0;s:65:"a:1:{i:0;s:47:"a:1:{i:0;s:29:"a:1:{i:0;s:11:"/for-users/";}";}";}";}";}'
 published: true
 gr_overridden:
-  - 'a:1:{i:0;s:72:"a:1:{i:0;s:54:"a:1:{i:0;s:36:"a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}";}";}";}'
+  - 'a:1:{i:0;s:90:"a:1:{i:0;s:72:"a:1:{i:0;s:54:"a:1:{i:0;s:36:"a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}";}";}";}";}'
 ---
 To use DGtal in your own project, a very nice solution exists with *cmake*: here you have an example to build a DGtal *helloword*: <code lang="cmake">
 PROJECT(Helloworld)
 
-##Required in DGtal
+### Required in DGtal
 
-CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
+&lt;p>CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
 FIND_PACKAGE(DGtal REQUIRED)
 INCLUDE_DIRECTORIES(${DGTAL_INCLUDE_DIRS})
 LINK_DIRECTORIES(${DGTAL_LIBRARY_DIRS})
