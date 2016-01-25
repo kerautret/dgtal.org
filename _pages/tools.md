@@ -146,6 +146,7 @@ or the DGtalTools-contrib:
 
 
 Installation:
+
 * use cmake tool to generate a build script (MakeFile, VS project,..) from the CMakeLists.txt
 * DGtal must be installed in your system. Concerning DGtal dependencies (boost, Qt,...), all the dependencies used to compile your DGtal library must be present to build the DGtalTools.
 
