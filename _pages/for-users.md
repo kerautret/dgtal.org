@@ -17,7 +17,7 @@ gr_overridden:
 To use DGtal in your own project, a very nice solution exists with *cmake*: here you have an example to build a DGtal *helloword*: <code lang="cmake">
 PROJECT(Helloworld)
 
-%%Required in DGtal
+##Required in DGtal
 
 CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
 FIND_PACKAGE(DGtal REQUIRED)
@@ -29,10 +29,10 @@ TARGET_LINK_LIBRARIES(helloworld ${DGTAL_LIBRARIES})
 </code> 
 See the [documentation][1] for details. DGtal is a free-software (Lesser Gnu Privacy License - LGPL) so you can freely use it and distribute it. However, if you use DGtal in your own project, we would be pleased to be kept in touch. If you want to refer to DGtal in your publications, please use the following bibtex entry:
 
-`@Misc{DGtal,
+<code lang="bibtex">@Misc{DGtal,
 title = {{D}{G}tal: Digital Geometry tools and algorithms library},
 note = {url{http://dgtal.org}}
-}`
+}</code>
 
 ## Projects/Publications using DGtal
 
