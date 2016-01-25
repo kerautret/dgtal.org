@@ -123,7 +123,7 @@ The source code of the tools can also be used to non DGtal familiar user to sho
     * <span style="color: #00008b">CumulativeSequenceTest</span> and <span style="color: #00008b">RationalBeattySequenceTest</span>: tests from LUTBasedNSDistanceTransform.
 
 
-* **Geometry2d/**: 
+* **Geometry3d/**: 
   * <span style="color: #00008b">basicEditMesh</span>: to apply basic mesh edition (scale change, mesh face contraction, face filtering).
   * <span style="color: #00008b">computeMeshDistances</span>: computes for each face of a mesh A the minimal distance to another mesh B.
   * <span style="color: #00008b">volLocalMax</span>: extract the local maximas of a vol image within a spherical kernel.
