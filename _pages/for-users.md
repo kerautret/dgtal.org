@@ -17,7 +17,7 @@ gr_overridden:
 To use DGtal in your own project, a very nice solution exists with *cmake*: here you have an example to build a DGtal *helloword*: <code lang="cmake">
 PROJECT(Helloworld)
 
-%%Required in DGtal&lt;
+%%Required in DGtal
 
 CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
 FIND_PACKAGE(DGtal REQUIRED)
