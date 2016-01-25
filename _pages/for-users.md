@@ -31,7 +31,7 @@ See the [documentation][1] for details. DGtal is a free-software (Lesser Gnu Pri
 
 <code lang="bibtex">@Misc{DGtal,
 title = {{D}{G}tal: Digital Geometry tools and algorithms library},
-note = {url{http://dgtal.org}}
+note = {\url{http://dgtal.org}}
 }</code>
 
 ## Projects/Publications using DGtal
