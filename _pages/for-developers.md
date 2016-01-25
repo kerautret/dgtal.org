@@ -15,6 +15,7 @@ ninja_forms_form:
 If you want to contribute to the DGtal library, contact the DGtal Editorial Board. For technical details on the DGtal project, have a look to the [doxygen nightly build documentation][1].
 
 Recommended pages:
+
 * [Contributing documentation page][4] (coding style, review process...)
 * [cmake and DGtal build system][2]
 * [DGtal Git/github workflow ][3]
