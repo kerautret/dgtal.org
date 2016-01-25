@@ -12,7 +12,7 @@ gr_overridden:
 ---
 ### Releases
 
-*   Last stable DGtal release: [DGtal-0.9.0-Source.tar.gz][1]
+*   Last stable DGtal release: [DGtal-0.9.1-Source.tar.gz][1]
 *   [All releases][2]
 
 ### Development version
@@ -23,10 +23,10 @@ gr_overridden:
 
 ### Requirements
 
-*   C++ compiler with C++11 features (gcc>=4.7, clang >= 3.0, VS14,...) 
+*   C++ compiler with C++11 features (gcc>=4.7, clang >= 3.0, VS14,...)
 *   [cmake][4] to generate the project and compile the library (>=2.6)
-*   [boost][5] (>= 1.46)</ul> 
-    
+*   [boost][5] (>= 1.46)
+
 ### Optional dependencies
 
 *   [Gnu Multiprecision Arithmetic Library][6] (GMP) (arbitrarily large integers)
@@ -36,19 +36,19 @@ gr_overridden:
 *   [GraphicsMagick ][10](to be able to load various image file formats)
 *   [doxygen][11] (to generate the source code documentation)
 *   C++ compiler with cpp0x instructions (gcc >= 4.4, Visual C++ 2010, ...)
-    
-### How to build the library
-See also [ the dedicated page][12] in the DGtal documentation. 
 
-*   Linux (command line) 
+### How to build the library
+See also [ the dedicated page][12] in the DGtal documentation.
+
+*   Linux (command line)
   *   get the code -> DGtal/
   *   ```mkdir build ; cd build ; cmake .. ; make```
   *   if you wish, you can "install" the library in your system: ```sudo make install```
-*   Windows 
+*   Windows
   *   use cmake-gui to generate the VS project for instance
   *   open the DGtal project and compile with Visual Studio (VS14 or above)
 
- [1]: http://dgtal.org/releases/DGtal-0.9-Source.tar.gz
+ [1]: http://dgtal.org/releases/DGtal-0.9.1-Source.tar.gz
  [2]: https://github.com/DGtal-team/DGtal/releases
  [3]: https://github.com/DGtal-team/DGtal
  [4]: http://www.cmake.org

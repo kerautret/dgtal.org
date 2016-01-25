@@ -11,11 +11,11 @@ gr_overridden:
   - "0"
 ---
 ### Documentation
-* [User guide and stable API documentation][1] (0.9)
+* [User guide and stable API documentation][1] (0.9.1)
 * [Nightly build doxygen documentation][2]
-* [Documentation docset URL][3] (0.9, for [Dash][4] or [Zeal][5] tools)
+* [Documentation docset URL][3] (0.9.1, for [Dash][4] or [Zeal][5] tools)
 
-### Slides of DGtal Meeting (29/08/2011) 
+### Slides of DGtal Meeting (29/08/2011)
 * [<img class="alignnone wp-image-413 size-medium" title="presentationDGtalMeeting2012_thumb" src="http://dgtal.org/wp/wp-content/uploads/2010/10/presentationDGtalMeeting2012_thumb-e1415195647526-300x76.png" alt="" width="300" height="76" />][6][Introduction to DGtal and its concepts][7]
 
 * [<img class="alignnone wp-image-297 size-medium" title="domainRange_thumb" src="http://dgtal.org/wp/wp-content/uploads/2010/10/domainRange_thumb-e1415195666598-300x75.png" alt="" width="300" height="75" />][8][Digital Domains][9]
@@ -29,7 +29,7 @@ gr_overridden:
 *   DGtal users: dgtal-users@lists.gforge.liris.cnrs.fr (subscription: [http://lists.gforge.liris.cnrs.fr/mailman/listinfo/dgtal-users][19])
 *   DGtal devs: dgtal-devel@lists.gforge.liris.cnrs.fr (subscription:[ http://lists.gforge.liris.cnrs.fr/mailman/listinfo/dgtal-devel][20])
 
-### Help us 
+### Help us
 * [Report a bug or a feature request][21] 
 
  [1]: http://dgtal.org/doc/stable/
