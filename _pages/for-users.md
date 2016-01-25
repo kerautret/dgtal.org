@@ -15,7 +15,7 @@ gr_overridden:
   - 'a:1:{i:0;s:72:"a:1:{i:0;s:54:"a:1:{i:0;s:36:"a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}";}";}";}'
 ---
 To use DGtal in your own project, a very nice solution exists with *cmake*: here you have an example to build a DGtal *helloword*: <code lang="cmake">
-PROJECT(Helloworld)&lt;
+PROJECT(Helloworld)
 
 ##Required in DGtal
 
