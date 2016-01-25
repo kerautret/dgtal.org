@@ -116,7 +116,7 @@ The source code of the tools can also be used to non DGtal familiar user to sho
 
 You can get the DGtalTools by using git:
 
-```git clone git://github.com/DGtal-team/DGtalTools.git``` or the source archive: [DGtalTools-0.8-Source.tar.gz][4]
+```git clone git://github.com/DGtal-team/DGtalTools.git``` or the source archive: [DGtalTools-0.9.1-Source.tar.gz][4] 
 
 Installation:
 * use cmake tool to generate a build script (MakeFile, VS project,..) from the CMakeLists.txt
@@ -125,4 +125,4 @@ Installation:
  [1]: http://github.com/DGtal-team/DGtalTools
  [2]: http://www.ipol.im
  [3]: http://dgtal.org/doc/stable/packageTutorials.html
- [4]: http://dgtal.org/wp/wp-content/uploads/2012/06/DGtalTools-0.8-Source.tar.gz
+ [4]: https://github.com/DGtal-team/DGtal/releases/DGtalTools-0.9.1.tar.gz
