@@ -119,8 +119,8 @@ The source code of the tools can also be used to non DGtal familiar user to sho
 * **Geometry2d/**: 
   * meaningFullThickness: to display the meaningful thickness of digital contour.
   * **<span style="color: #00008b">distanceTransform/</span>**:
-    * <span style="color: #00008b">LUTBasedNSDistanceTransform</span>: Compute the 2D translated neighborhood-sequence distance transform of a binary imag
-    * <span style="color: #00008b">CumulativeSequenceTest</span> and <span style="color: #00008b">RationalBeattySequenceTest</span>: tests from LUTBasedNSDistanceTransform.
+      * <span style="color: #00008b">LUTBasedNSDistanceTransform</span>: Compute the 2D translated neighborhood-sequence distance transform of a binary imag
+      * <span style="color: #00008b">CumulativeSequenceTest</span> and <span style="color: #00008b">RationalBeattySequenceTest</span>: tests from LUTBasedNSDistanceTransform.
 
 
 * **Geometry3d/**: 
