@@ -116,21 +116,21 @@ The source code of the tools can also be used to non DGtal familiar user to sho
 
 ### DGtalTools-contrib content:
 
-* **Geometry2d**: 
+* **Geometry2d/**: 
   * meaningFullThickness: to display the meaningful thickness of digital contour.
   * **<span style="color: #00008b">distanceTransform/</span>**:
     * <span style="color: #00008b">LUTBasedNSDistanceTransform</span>: Compute the 2D translated neighborhood-sequence distance transform of a binary imag
     * <span style="color: #00008b">CumulativeSequenceTest</span> and <span style="color: #00008b">RationalBeattySequenceTest</span>: tests from LUTBasedNSDistanceTransform.
 
 
-* **Geometry2d**: 
+* **Geometry2d/**: 
   * <span style="color: #00008b">basicEditMesh</span>: to apply basic mesh edition (scale change, mesh face contraction, face filtering).
   * <span style="color: #00008b">computeMeshDistances</span>: computes for each face of a mesh A the minimal distance to another mesh B.
   * <span style="color: #00008b">volLocalMax</span>: extract the local maximas of a vol image within a spherical kernel.
   * <span style="color: #00008b">basicMorphoFilter</span>: apply basic morpho filter from a ball structural element.
 
 
-* **Visualisation**:
+* **Visualisation/**:
   * <span style="color: #00008b">displayTgtCoverAlphaTS</span>: to display alpha-thick segment given on a simple contour.
   * <span style="color: #00008b">meshViewerEdit</span>: tool to visualize a mesh and to apply simple edits (face removal, color edits...).
 
