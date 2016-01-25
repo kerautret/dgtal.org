@@ -154,4 +154,4 @@ Installation:
  [3]: http://www.ipol.im
  [4]: http://dgtal.org/doc/stable/packageTutorials.html
  [5]: https://github.com/DGtal-team/DGtalTools/archive/0.9.1.tar.gz
- [5]: https://github.com/DGtal-team/DGtalTools-contrib/archive/0.9.1.tar.gz
+ [6]: https://github.com/DGtal-team/DGtalTools-contrib/archive/0.9.1.tar.gz
