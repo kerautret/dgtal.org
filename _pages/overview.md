@@ -26,6 +26,7 @@ The collaborative project [DGtal][1] aims at developing generic, efficient and r
 
 Even if the domain emerged during the second half of the 20th century with the birth of computer graphics and digital image processing, many links have been demonstrated between Digital Geometry results and fundamental theorems in mathematics (arithmetic, geometry, topology...), discrete mathematics (word theory, combinatorics, graph theory...) or computer science (algorithmic, computational geometry, image processing...).
 
+
 Have a look to the [Gallery][3] for digital geometry illustrations in DGtal.
 
 ### Objectives of DGtal Project
