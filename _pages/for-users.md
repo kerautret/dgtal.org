@@ -14,7 +14,9 @@ published: true
 gr_overridden:
   - 'a:1:{i:0;s:90:"a:1:{i:0;s:72:"a:1:{i:0;s:54:"a:1:{i:0;s:36:"a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}";}";}";}";}'
 ---
-To use DGtal in your own project, a very nice solution exists with *cmake*: here you have an example to build a DGtal *helloword*: <code lang="cmake">
+To use DGtal in your own project, a very nice solution exists with *cmake*: here you have an example to build a DGtal *helloword*: 
+
+``` cmake
 PROJECT(Helloworld)
 
 ### Required in DGtal
@@ -26,12 +28,16 @@ LINK_DIRECTORIES(${DGTAL_LIBRARY_DIRS})
 
 ADD_EXECUTABLE(helloworld helloworld)
 TARGET_LINK_LIBRARIES(helloworld ${DGTAL_LIBRARIES})
-</code> See the [documentation][1] for details. DGtal is a free-software (Lesser Gnu Privacy License - LGPL) so you can freely use it and distribute it. However, if you use DGtal in your own project, we would be pleased to be kept in touch. If you want to refer to DGtal in your publications, please use the following bibtex entry:
+``` 
 
-<code lang="bibtex">@Misc{DGtal,
-title = {{D}{G}tal: Digital Geometry tools and algorithms library},
-note = {\url{http://dgtal.org}}
-}</code> 
+See the [documentation][1] for details. DGtal is a free-software (Lesser Gnu Privacy License - LGPL) so you can freely use it and distribute it. However, if you use DGtal in your own project, we would be pleased to be kept in touch. If you want to refer to DGtal in your publications, please use the following bibtex entry:
+
+``` bibtex
+@Misc{DGtal,
+  title = {{D}{G}tal: Digital Geometry tools and algorithms library},
+  note = {\url{http://dgtal.org}}
+}
+```
 ## Projects/Publications using DGtal
 
 *   ANR Grant [digitalSnow][2] (ANR-11-BS02-009) "Digital Geometry and Applied Mathematics for Snow Metamorphism"
