@@ -20,7 +20,6 @@ To use DGtal in your own project, a very nice solution exists with *cmake*: here
 PROJECT(Helloworld)
 
 ### Required in DGtal
-
 CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
 FIND_PACKAGE(DGtal REQUIRED)
 INCLUDE_DIRECTORIES(${DGTAL_INCLUDE_DIRS})
