@@ -17,20 +17,20 @@ ninja_forms_form:
 * Jacques-Olivier Lachaud (LAMA, Université de Savoie)
 
 ###DGtalTools Package Manager
-* Bertrand Kerautret (LORIA, Université Henri Poincaré Nancy 1)
+* Bertrand Kerautret (LORIA, Université de Lorraine)
 
 ###Main development team
 * David Coeurjolly (LIRIS, CNRS)
 * Guillaume Damiand (LIRIS, CNRS)
 * Pierre Gueth (LIRIS, CNRS)
 * Sébastien Fourey (GREYC, ENSICAEN)
-* Bertrand Kerautret (LORIA, Université Henri Poincaré Nancy 1)
-* Adrien Krähenbühl (LORIA)
+* Bertrand Kerautret (LORIA, Université de Lorraine)
+* Adrien Krähenbühl (LaBRI)
 * Jacques-Olivier Lachaud (LAMA, Université de Savoie)
 * Jérémy Levallois (LIRIS - LAMA, INSA-Lyon)
 * Nicolas Normand (IRCCyN, Université de Nantes)
 * Xavier Provençal (LAMA, Université de Savoie)
-* Laurent Provot (LORIA, Université Henri Poincaré Nancy 1)
+* Laurent Provot (LIMOS, Auvergne University)
 * Tristan Roussillon (LIRIS, Université Lumière Lyon 2)
 * Isabelle Sivignon (GIPSA-lab, CNRS)
 * Martial Tola (LIRIS, CNRS)
