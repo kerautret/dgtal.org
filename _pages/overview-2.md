@@ -46,7 +46,7 @@ ninja_forms_form:
 * * *
 
 *   [Arithmetic Package][5] 
-    *   This package gathers tools to perform arithmetic computations. Standard arithmetic [caption id="attachment_556" align="alignright" width="126"][<img class="   wp-image-556" title="dsl-standard-s" src="http://libdgtal.org/wordpress/wp-content/uploads/2012/10/dsl-standard-s-300x255.png" alt="Standard digital straight line" width="126" height="107" />][6] Arithmetic view of standard digital straight lines[/caption] computations are provided: greatest common divisor, Bézout vectors, continued fractions, convergent, intersection of integer half-spaces. Several representations of irreducible fractions are provided. They are based on the Stern-Brocot tree structure. With these fractions, amortized constant time operations are provided for computing reduced fractions. A representation of digital standard line in the first quadrant is provided, as well as fast algorithms to recognize digital straight subsegments. Furthermore, it provides classes for representing 2D lattice polytopes (convex integer polygons) as well as methods to perform linear integer programming in the plane.
+    *   This package gathers tools to perform arithmetic computations. Standard arithmetic [caption id="attachment_556" align="alignright" width="126"][<img class="   wp-image-556" title="dsl-standard-s" src="http://dgtal.org/wp/wp-content/uploads/2010/10/dsl-standard-s-300x255.png" alt="Standard digital straight line" width="126" height="107" />][6] Arithmetic view of standard digital straight lines[/caption] computations are provided: greatest common divisor, Bézout vectors, continued fractions, convergent, intersection of integer half-spaces. Several representations of irreducible fractions are provided. They are based on the Stern-Brocot tree structure. With these fractions, amortized constant time operations are provided for computing reduced fractions. A representation of digital standard line in the first quadrant is provided, as well as fast algorithms to recognize digital straight subsegments. Furthermore, it provides classes for representing 2D lattice polytopes (convex integer polygons) as well as methods to perform linear integer programming in the plane.
     *   *Jacques-Olivier Lachaud, Xavier Provençal, Mouhammad Said, Emilie Charrier, Lilian Buzer*
     *   LGPL
 
@@ -61,7 +61,7 @@ ninja_forms_form:
 
 *   [Geometry Package][9] 
     *   This package contains geometry related concepts, objects and methods which are used in other higher level packages. It provides a generic framework for the segmentation of one-dimensional discrete structures, like strings, contours of 2d digital objects or nd digital curves. It has also limited support for digital plane recognition in 3d. It also provides a generic framework for the estimation of geometrical quantities, either global, like length, or local, like normal or curvature. Several estimators are built from some well chosen segmentations. On the other hand, this package contains tools for the analysis of volumes of arbitrary dimension, by the means of separable and incremental distance transforms.
-    *   *Tristan Roussillon, David Coeurjolly, Jacques-Olivier Lachaud*
+    *   *Tristan Roussillon, David Coeurjolly, Jacques-Olivier Lachaud, Bertrand Kerautret*
     *   LGPL [caption id="attachment_117" align="alignright" width="150"][<img class="wp-image-117 size-thumbnail" title="exampleDSS-3" src="http://dgtal.org/wp/wp-content/uploads/2010/10/exampleDSS-3-150x118.png" alt="" width="150" height="118" />][10] Example of the decomposition of a simple 4-connected curve into maximal Discrete Straight Segments (greedy algorithm).[/caption] [caption id="attachment_259" align="alignright" width="150"][<img class="wp-image-259 size-thumbnail" title="Distance Transformation using the Euclidean distance " src="http://dgtal.org/wp/wp-content/uploads/2010/10/AlCaponeDistanceMap-150x150.png" alt="" width="150" height="150" />][11] Distance Transformation using the Euclidean distance[/caption]
 
 * * *
@@ -109,8 +109,8 @@ ninja_forms_form:
  [1]: http://dgtal.org/doc/stable/packageIntroduction.html
  [2]: http://dgtal.org/doc/stable/packageBase.html
  [3]: http://dgtal.org/doc/stable/packageKernel.html
- [4]: http://liris.cnrs.fr/dgtal/wordpress/wp-content/uploads/2010/10/Capture-d%E2%80%99%C3%A9cran-2011-03-19-%C3%A0-01.45.24.png
- [5]: http://libdgtal.org/doc/stable/packageArithmetic.html "Arithmetic Package"
+ [4]: http://dgtal.org/wp/wp-content/uploads/2010/10/Capture-d’écran-2011-03-19-à-01.45.24-1024x775.png
+ [5]: http://dgtal.org/doc/stable/packageArithmetic.html "Arithmetic Package"
  [6]: http://dgtal.org/wp/wp-content/uploads/2012/10/dsl-standard-s.png
  [7]: http://dgtal.org/doc/stable/packageTopology.html
  [8]: http://dgtal.org/wp/wp-content/uploads/2010/10/surfelTracking.png
@@ -124,7 +124,7 @@ ninja_forms_form:
  [16]: http://dgtal.org/wp/wp-content/uploads/2010/10/contourS1.gif
  [17]: http://dgtal.org/doc/stable/packageShapes.html "Shapes Package"
  [18]: http://dgtal.org/wp/wp-content/uploads/2012/10/accflower01.png
- [19]: http://libdgtal.org/doc/nightly/namespaceDGtal.html "DGtal is the top-level namespace which contains all DGtal functions and types."
+ [19]: http://dgtal.org/doc/stable/namespaces.html "DGtal is the top-level namespace which contains all DGtal functions and types."
  [20]: http://dgtal.org/doc/stable/packageGraph.html "Graph Package"
  [21]: http://dgtal.org/wp/wp-content/uploads/2012/10/graphTraversal-bfs.png
  [22]: http://dgtal.org/doc/stable/packageMath.html "Mathematical Package"
