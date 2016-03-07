@@ -2,17 +2,17 @@
 ID: 261
 post_title: For users
 author:
-  - 'a:1:{i:0;s:88:"a:1:{i:0;s:70:"a:1:{i:0;s:52:"a:1:{i:0;s:34:"a:1:{i:0;s:16:"David Coeurjolly";}";}";}";}";}'
+  - 'a:1:{i:0;s:106:"a:1:{i:0;s:88:"a:1:{i:0;s:70:"a:1:{i:0;s:52:"a:1:{i:0;s:34:"a:1:{i:0;s:16:"David Coeurjolly";}";}";}";}";}";}'
 post_date:
-  - 'a:1:{i:0;s:91:"a:1:{i:0;s:73:"a:1:{i:0;s:55:"a:1:{i:0;s:37:"a:1:{i:0;s:19:"2011-07-29 18:31:23";}";}";}";}";}'
+  - 'a:1:{i:0;s:109:"a:1:{i:0;s:91:"a:1:{i:0;s:73:"a:1:{i:0;s:55:"a:1:{i:0;s:37:"a:1:{i:0;s:19:"2011-07-29 18:31:23";}";}";}";}";}";}'
 post_excerpt:
-  - 'a:1:{i:0;s:71:"a:1:{i:0;s:53:"a:1:{i:0;s:35:"a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}";}";}";}'
+  - 'a:1:{i:0;s:89:"a:1:{i:0;s:71:"a:1:{i:0;s:53:"a:1:{i:0;s:35:"a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}";}";}";}";}'
 layout: page
 permalink:
-  - 'a:1:{i:0;s:83:"a:1:{i:0;s:65:"a:1:{i:0;s:47:"a:1:{i:0;s:29:"a:1:{i:0;s:11:"/for-users/";}";}";}";}";}'
+  - 'a:1:{i:0;s:101:"a:1:{i:0;s:83:"a:1:{i:0;s:65:"a:1:{i:0;s:47:"a:1:{i:0;s:29:"a:1:{i:0;s:11:"/for-users/";}";}";}";}";}";}'
 published: true
 gr_overridden:
-  - 'a:1:{i:0;s:90:"a:1:{i:0;s:72:"a:1:{i:0;s:54:"a:1:{i:0;s:36:"a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}";}";}";}";}'
+  - 'a:1:{i:0;s:108:"a:1:{i:0;s:90:"a:1:{i:0;s:72:"a:1:{i:0;s:54:"a:1:{i:0;s:36:"a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}";}";}";}";}";}'
 ---
 To use DGtal in your own project, a very nice solution exists with *cmake*: here you have an example to build a DGtal *helloword*: 
 
@@ -40,9 +40,9 @@ See the [documentation][1] for details. DGtal is a free-software (Lesser Gnu Pri
 ## Projects/Publications using DGtal
 
 *   ANR Grant [digitalSnow][2] (ANR-11-BS02-009) "Digital Geometry and Applied Mathematics for Snow Metamorphism"
-*   Longuetaud, F.; Mothe, F.; Kerautret, B.; Krähenbühl, A.; Hory, L.; Leban, J. & Debled-Rennesson, I. Automatic knot detection and measurements from X-ray CT images of wood: A review and validation of an improved algorithm on softwood samples.
+*   Longuetaud, F.; Mothe, F.; Kerautret, B.; Krähenbühl, A.; Hory, L.; Leban, J. &amp; Debled-Rennesson, I. Automatic knot detection and measurements from X-ray CT images of wood: A review and validation of an improved algorithm on softwood samples.
 *   Computers and Electronics in Agriculture, 2012, 85, 77-89
-*   Kowalczyk, M. K.; Kerautret, B.; Naegel, B. & Weber, J.,Revisiting Component Tree Based Segmentation Using Meaningful Photometric Informations. *Proc of International Conference ICCVG, Springer, 2012, 7594, 475-482*
+*   Kowalczyk, M. K.; Kerautret, B.; Naegel, B. &amp; Weber, J.,Revisiting Component Tree Based Segmentation Using Meaningful Photometric Informations. *Proc of International Conference ICCVG, Springer, 2012, 7594, 475-482*
 
  [1]: http://dgtal.org/doc/stable/moduleHowToUseDGtal.html
  [2]: http://liris.cnrs.fr/dsnow
