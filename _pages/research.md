@@ -53,4 +53,9 @@ We list here examples of publications and research projects that rely on DGtal o
 <p class="publi-desc">T. Roussillon and <a href="http://www.lama.univ-savoie.fr/~lachaud/People/LACHAUD-JO/person.html">J.-O. Lachaud</a>, <b>Accurate Curvature Estimation along Digital Contours with Maximal Digital Circular Arcs </b>, In <em>Proc. Int. Workshop Combinatorial Image Analysis (IWCIA2011), Madrid, Spain </em>, volume 6636 of LNCS, pages 43 - 55, 2011. Springer.</p>
 </li>
 </ul>
-&nbsp;
+<h2>Book chapters using DGtal</h2>
+<ul>
+ 	<li>
+<p class="publi-desc">D. Coeurjolly, <a href="http://www.lama.univ-savoie.fr/~lachaud/People/LACHAUD-JO/person.html">J.-O. Lachaud</a> and T. Roussillon, <b>Multigrid Convergence of Discrete Geometric Estimators </b>, In <em>Digital Geometry Algorithms </em>, volume 2 of LNCVB, pages 395 - 424, 2012. Springer.</p>
+</li>
+</ul>
