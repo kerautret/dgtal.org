@@ -20,7 +20,14 @@ We list here examples of publications and research projects that rely on DGtal o
  	<li>
 <p class="publi-desc">J. Levallois, D. Coeurjolly and <a href="http://www.lama.univ-savoie.fr/~lachaud/People/LACHAUD-JO/person.html">J.-O. Lachaud</a>, <b>Scale-space feature extraction on digital surfaces </b>, <em>Computers &amp; Graphics </em>51: 177 - 189, 2015. International Conference Shape Modeling International.</p>
 </li>
- 	<li>
+
+
+<li>
+<p class="publi-desc"> 	A. Krähenbühl, B. Kerautret, I. Debled-Rennesson, F. Mothe, F. Longuetaud  <b>Knot segmentation in 3D CT images of wet wood</b>, <em> Pattern Recognition </em>, 47(12):3852-3869, 2014.</p>
+</li>
+
+
+<li>
 <p class="publi-desc">D. Coeurjolly and <a href="http://www.lama.univ-savoie.fr/~lachaud/People/LACHAUD-JO/person.html">J.-O. Lachaud</a> and J. Levallois, <b>Multigrid convergent principal curvature estimators in digital geometry </b>, <em>Computer Vision and Image Understanding </em>, 129: 27 - 41, 2014.</p>
 </li>
  	<li>
@@ -30,10 +37,27 @@ We list here examples of publications and research projects that rely on DGtal o
 </ul>
 <h2>Conference publications using DGtal</h2>
 <ul>
- 	<li>
+
+<li>
+<p class="publi-desc"> P. Ngo, H. Nasser, I. Debled-Rennesson, B. Kerautret, <b> Adaptive Tangential Cover for Noisy Digital Contours </b>, In <em>Proc. Int. Conf. on Discrete Geometry for Computer Imagery (DGCI'2016), Nantes </em>, volume 9647 of LNCS, pages 439-451, 2016. Springer.</p>
+</li>
+
+
+<li>
+<p class="publi-desc"> A. Krähenbühl, B. Kerautret, F. Feschet, <b> Knot Detection from Accumulation Map by Polar Scan </b>, In <em>Proc. Combinatorial Image Analysis - 17th International Workshop, (IWCIA 2015), Kolkata, India </em>, volume 9448 of LNCS, pages 352-362, 2015. Springer.</p>
+</li>
+
+<li>
+<p class="publi-desc">N. Aubry, B. Kerautret, I. Debled-Rennesson, P. Even, <b> Knot Detection from Accumulation Map by Polar Scan </b>, In <em>Proc. Combinatorial Image Analysis - 17th International Workshop, (IWCIA 2015), Kolkata, India </em>, volume 9448 of LNCS, pages 311-322, 2015. Springer.</p>
+</li>
+
+
+<li>
 <p class="publi-desc"> B. Kerautret and A. Krähenbühl and I. Debled-Rennesson and <a href="http://www.lama.univ-savoie.fr/~lachaud/People/LACHAUD-JO/person.html">J.-O. Lachaud</a>, <b>3D Geometric Analysis of Tubular Objects Based on Surface Normal Accumulation </b>, In <em>Proc. Image Analysis and Processing (ICIAP 2015), Genova, Italy </em>, volume 9279 of LNCS, pages 319 - 331, 2015. Springer.</p>
 </li>
- 	<li>
+
+
+<li>
 <p class="publi-desc">F. Grélard and F. Baldacci and A. Vialard and <a href="http://www.lama.univ-savoie.fr/~lachaud/People/LACHAUD-JO/person.html">J.-O. Lachaud</a>, <b>Precise Cross-Section Estimation on Tubular Organs </b>, In <em>Proc. Computer Analysis of Images and Patterns (CAIP'2015), La Valetta, Malta </em>, volume 9257 of LNCS, pages 277 - 288, 2015. Springer.</p>
 </li>
  	<li>
