@@ -28,17 +28,17 @@ The source code of the tools can also be used to non DGtal familiar user to sho
 
 
 ### DGtalTools content:
- At the moment the DGTalTools project is organized as follows( <span style="color: #8b0000">new</span> or <span style="color: #008b00">improved</span> in 0.9.1):
+ At the moment the DGTalTools project is organized as follows (<span style="color: #8b0000">new</span> or <span style="color: #008b00">improved</span> in 0.9.2):
 
 * **converters/**: utilities to convert various simple file formats:
  * <span style="color: #00008b">convertVol</span>: a simple generic volume image converters (can process actually pgm3d, vol, longvol, raw (for writing)).
  * <span style="color: #00008b"> dicom2vol</span>: convert dicom images into 3d volumic file (need itk option in DGtal).
- * <span style="color: #00008b">freeman2img</span>: transform one or several freeman chains into a pgm file by filling their interior areas.
+ * <span style="color: #008b00">freeman2img</span>: transform one or several freeman chains into a pgm file by filling their interior areas.
  * <span style="color: #00008b">freeman2sdp</span>: convert freeman chain towards a Sequence of Discrete Points.
  * <span style="color: #00008b"> HDF52vol</span>: convert HDF5 to vol file format.
  * <span style="color: #00008b">heightfield2shading</span>: a new tool to render a 2D heightfield image into a shading one.
  * <span style="color: #00008b">heightfield2vol</span>: a new tool to transform 2D heightmap into volumetric file.
- * <span style="color: #008b00">img2freeman</span>: to extract a freeman chain contour from a grayscale image.
+ * <span style="color: #00008b">img2freeman</span>: to extract a freeman chain contour from a grayscale image.
  * <span style="color: #00008b">imgAddNoise</span>: a new tool to add noise (Kanungo's) to a binary 2D object.
  * <span style="color: #00008b">itk2vol</span>: convert any image of itk format (mhd, mha, ...) to vol (available with the itk option in DGtal).
  * <span style="color: #00008b"> longvol2vol</span>: convert longvol to vol file using different conversion policies.
@@ -86,21 +86,21 @@ The source code of the tools can also be used to non DGtal familiar user to sho
  * <span style="color: #00008b">3dDisplaySurfelData</span>: display surfel data from SDP file with color attributes given as scalar interpreted as color.
  * <span style="color: #00008b">3dHeightMapViewer</span>: display a 2D image as heightmap by using QGLviewer.
  * <span style="color: #00008b">3dImageViewer</span>: new tool to display slice image with interactive translatations or rotations (can open dicom format if WITH_ITK is set to true).
- * <span style="color: #8b0000">3dImplicitSurfaceExtractorBy4DExtension</span>:  a tool to visualize 3d polynomial implicit surface defined as some f(x,y,z)=0.
- * <span style="color: #8b0000">3dImplicitSurfaceExtractorByThickening</span>:  a tool to visualize 3d polynomial implicit surface defined as some f(x,y,z)=0.
- * <span style="color: #00008b">3dSDPViewer</span>: basic display of a sequence of 3d points (as voxel or sphere) and vectors by using QGLviewer.
+ * <span style="color: #00008b">3dImplicitSurfaceExtractorBy4DExtension</span>:  a tool to visualize 3d polynomial implicit surface defined as some f(x,y,z)=0.
+ * <span style="color: #00008b">3dImplicitSurfaceExtractorByThickening</span>:  a tool to visualize 3d polynomial implicit surface defined as some f(x,y,z)=0.
+ * <span style="color: #008b00">3dSDPViewer</span>: basic display of a sequence of 3d points (as voxel or sphere) and vectors by using QGLviewer.
  * <span style="color: #00008b">3dVolBoundaryViewer</span>: Display the boundary of a volume file by using QGLviewer.
  * <span style="color: #00008b">3dVolViewer</span>: volume file (.vol and .pgm3d) viewer with QGLViewer.
  * <span style="color: #00008b">displayContours</span>: display discrete contours from various format (.fc (freemanchain), .sdp).
  * <span style="color: #008b00">meshViewer</span>: display 3D mesh from OFS or OFF format.
  * <span style="color: #00008b">patternTriangulation</span>: a new tool that draws with Board2D the convex hull, the closest-point Delaunay triangulation or the farthest-point Delaunay triangulation of a pattern.
- * <span style="color: #00008b">sliceViewer</span>: a new 2D and 3D slice viewer from 3D volumic files ( pgm3d, vol, longvol, and DICOM with ITK).
+ * <span style="color: #008b00">sliceViewer</span>: a new 2D and 3D slice viewer from 3D volumic files ( pgm3d, vol, longvol, and DICOM with ITK).
 
 * **volumetric/**:
   * <span style="color: #00008b">3dVolMarchingCubes</span>: marching cubes form a Vol file
-  * <span style="color: #008b00">homotopicThinning3D</span>: ultimate skeleton from vol file
+  * <span style="color: #00008b">homotopicThinning3D</span>: ultimate skeleton from vol file
   * <span style="color: #00008b">volAddBorder</span>: add a 1 voxel boundary with value 0 to a vol file.
-  * <span style="color: #00008b">volCComponentCounter</span>: a simple program to count the number of connected components in a 3D image.
+  * <span style="color: #008b00">volCComponentCounter</span>: a simple program to count the number of connected components in a 3D image.
   * <span style="color: #00008b">volCrop</span>: crop an 3D vol image from to points.
   * <span style="color: #00008b">volFlip</span>: tool to flip all volume slice images according a given dimension.
   * <span style="color: #00008b">volImageMetrics</span>: apply basic measures from two volumetric images: RMSE and PSNR.
@@ -115,6 +115,7 @@ The source code of the tools can also be used to non DGtal familiar user to sho
 
 
 ### DGtalTools-contrib content:
+At the moment the DFtalTools-contrib project is organized as follows (<span style="color: #8b0000">new</span> or <span style="color: #008b00">improved</span> in 0.9.2):
 
 * **Geometry2d/**: 
   * meaningFullThickness: to display the meaningful thickness of digital contour.
@@ -125,13 +126,15 @@ The source code of the tools can also be used to non DGtal familiar user to sho
 
 * **Geometry3d/**: 
   * <span style="color: #00008b">basicEditMesh</span>: to apply basic mesh edition (scale change, mesh face contraction, face filtering).
+  * <span style="color: #00008b">basicMorphoFilter</span>: apply basic morpho filter from a ball structural element.
   * <span style="color: #00008b">computeMeshDistances</span>: computes for each face of a mesh A the minimal distance to another mesh B.
   * <span style="color: #00008b">volLocalMax</span>: extract the local maximas of a vol image within a spherical kernel.
-  * <span style="color: #00008b">basicMorphoFilter</span>: apply basic morpho filter from a ball structural element.
+  * <span style="color: #8b0000">xyzScale</span>: a basic tool to adjust the scale of an xyz file.
 
 
 * **Visualisation/**:
   * <span style="color: #00008b">displayTgtCoverAlphaTS</span>: to display alpha-thick segment given on a simple contour.
+  * <span style="color: #8b0000">graphViewer</span>: add a new tool allowing to display graph from edges, vertex and radii.
   * <span style="color: #00008b">meshViewerEdit</span>: tool to visualize a mesh and to apply simple edits (face removal, color edits...).
 
 
