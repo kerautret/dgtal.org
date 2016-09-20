@@ -8,7 +8,7 @@ layout: page
 permalink: http://dgtal.org/for-users/
 published: true
 gr_overridden:
-  - 'a:1:{i:0;s:108:"a:1:{i:0;s:90:"a:1:{i:0;s:72:"a:1:{i:0;s:54:"a:1:{i:0;s:36:"a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}";}";}";}";}";}'
+  - 'a:1:{i:0;s:127:"a:1:{i:0;s:108:"a:1:{i:0;s:90:"a:1:{i:0;s:72:"a:1:{i:0;s:54:"a:1:{i:0;s:36:"a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}";}";}";}";}";}";}'
 ---
 To use DGtal in your own project, a very nice solution exists with *cmake*: here you have an example to build a DGtal *helloword*: 
 
