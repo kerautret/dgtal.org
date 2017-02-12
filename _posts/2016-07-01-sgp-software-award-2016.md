@@ -16,3 +16,5 @@ The price acknowledge a high quality open-source  software dedicated to the geom
 Taking into account the elegantly structured code, the ease with which users can interface into the code-base, and the varied scope of applications, the SGP Software Award Committee have decided that this software package is the most deserving of the candidates considered.
 
 We would like to thank the community and all developers that help us on this project.
+
+<a href="http://dgtal.org/wp/wp-content/uploads/2016/07/image_preview.png"><img src="http://dgtal.org/wp/wp-content/uploads/2016/07/image_preview-300x212.png" alt="" width="300" height="212" class="alignnone size-medium wp-image-1015" /></a>
