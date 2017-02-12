@@ -17,4 +17,4 @@ Taking into account the elegantly structured code, the ease with which users can
 
 We would like to thank the community and all developers that help us on this project.
 
-<a href="http://dgtal.org/wp/wp-content/uploads/2016/07/image_preview.png"><img class="alignnone size-medium wp-image-1015" src="http://dgtal.org/wp/wp-content/uploads/2016/07/image_preview-300x212.png" alt="" width="300" height="212" /></a>
+<a href="http://dgtal.org/wp/wp-content/uploads/2016/07/image_preview.png"><img class="alignnone wp-image-1015 size-full" src="http://dgtal.org/wp/wp-content/uploads/2016/07/image_preview.png" width="400" height="282" /></a>
