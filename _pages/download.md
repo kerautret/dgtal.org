@@ -8,11 +8,11 @@ layout: page
 permalink: http://dgtal.org/download/
 published: true
 gr_overridden:
-  - 'a:1:{i:0;s:1:"0";}'
+  - 'a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}'
 ---
 ### Releases
 
-* Last stable DGtal release: [DGtal-0.9.2-Source.tar.gz][1]
+* Last stable DGtal release: [DGtal-0.9.3-Source.tar.gz][1]
 * [All releases][2]
 
 ### Development version
@@ -26,6 +26,9 @@ gr_overridden:
 * C++ compiler with C++11 features (gcc&gt;=4.7, clang &gt;= 3.0, VS14,...)
 * [cmake][4] to generate the project and compile the library (&gt;=2.6)
 * [boost][5] (&gt;= 1.46)
+* [zlib][13] for compressed Vol files
+
+&nbsp;
 
 ### Optional dependencies
 
@@ -48,7 +51,7 @@ See also [ the dedicated page][12] in the DGtal documentation.
 * use cmake-gui to generate the VS project for instance
 * open the DGtal project and compile with Visual Studio (VS14 or above)
 
-[1]: http://dgtal.org/releases/DGtal-0.9.2-Source.tar.gz
+[1]: http://dgtal.org/releases/DGtal-0.9.3-Source.tar.gz
 [2]: https://github.com/DGtal-team/DGtal/releases
 [3]: https://github.com/DGtal-team/DGtal
 [4]: http://www.cmake.org
@@ -60,3 +63,4 @@ See also [ the dedicated page][12] in the DGtal documentation.
 [10]: http://www.graphicsmagick.org/
 [11]: http://www.stack.nl/~dimitri/doxygen/
 [12]: http://dgtal.org/doc/stable/moduleBuildDGtal.html
+[13]: http://zlib.net
