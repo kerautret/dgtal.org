@@ -78,12 +78,13 @@ The source code of the tools can also be used to non DGtal familiar user to sho
  * <span sytle="color: #8b0000">at-u2-v0</span>: computes a piecewise smooth approximation of a grey-level or color image, by optimizing the Ambrosio-Tortorelli functional (with u a 2-form and v a 0-form).
  * <span sytle="color: #8b0000">at-u0-v1</span>: Computes a piecewise smooth approximation of a grey-level or color image, by optimizing the Ambrosio-Tortorelli functional (with u a 0-form and v a 1-form).
 
-**** 
+* * * * 
 
 *   **shapeGenerator/**:
-    * <span style="color: #00008b">shapeGenerator</span>: generate multigrid shape
-    * <span style="color: #00008b">contourGenerator</span>: generate multigrid shape contours
+    - <span style="color: #00008b">shapeGenerator</span>: generate multigrid shape
+    - <span style="color: #00008b">contourGenerator</span>: generate multigrid shape contours
 
+* * * *
 * **visualization/**:
  * <span style="color: #00008b">3dCompSurfelData</span>: a tool to compare generic surfel data informations given from two data files.
  * <span style="color: #00008b">3dCurvatureViewer</span>: permits to compute and visualize mean or gaussian curvature and principal curvature directions of  binary shape.
