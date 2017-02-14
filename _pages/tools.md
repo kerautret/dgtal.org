@@ -88,6 +88,7 @@ The source code of the tools can also be used to non DGtal familiar user to sho
     - <span style="color: #00008b">contourGenerator</span>: generate multigrid shape contours
 
 * * * *
+
 * **visualization/**:
  - <span style="color: #00008b">3dCompSurfelData</span>: a tool to compare generic surfel data informations given from two data files.
  - <span style="color: #00008b">3dCurvatureViewer</span>: permits to compute and visualize mean or gaussian curvature and principal curvature directions of  binary shape.
@@ -133,9 +134,10 @@ At the moment the DFtalTools-contrib project is organized as follows (<span styl
   - <span style="color: #8b0000">houghLineDetect</span>: to detect line segment from Hough transform (using OpenCV). 
   - meaningFullThickness: to display the meaningful thickness of digital contour.
   - **<span style="color: #00008b">distanceTransform/</span>**:
-    * <span style="color: #00008b">LUTBasedNSDistanceTransform</span>: Compute the 2D translated neighborhood-sequence distance transform of a binary imag
-    * <span style="color: #00008b">CumulativeSequenceTest</span> and <span style="color: #00008b">RationalBeattySequenceTest</span>: tests from LUTBasedNSDistanceTransform.
+     - <span style="color: #00008b">LUTBasedNSDistanceTransform</span>: Compute the 2D translated neighborhood-sequence distance transform of a binary imag
+     - <span style="color: #00008b">CumulativeSequenceTest</span> and <span style="color: #00008b">RationalBeattySequenceTest</span>: tests from LUTBasedNSDistanceTransform.
 
+* * * *
 
 * **Geometry3d/**: 
   - <span style="color: #00008b">basicEditMesh</span>: to apply basic mesh edition (scale change, mesh face contraction, face filtering).
@@ -144,6 +146,7 @@ At the moment the DFtalTools-contrib project is organized as follows (<span styl
   - <span style="color: #00008b">volLocalMax</span>: extract the local maximas of a vol image within a spherical kernel.
   - <span style="color: #00008b">xyzScale</span>: a basic tool to adjust the scale of an xyz file.
 
+* * * *
 
 * **Visualisation/**:
   - <span style="color: #8b0000">displayLineSegments</span>:  new tool allowing to display line segment in an output image.
