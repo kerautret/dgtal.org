@@ -77,7 +77,9 @@ The source code of the tools can also be used to non DGtal familiar user to sho
 * **image processing/**:
  * <span sytle="color: #8b0000">at-u2-v0</span>: computes a piecewise smooth approximation of a grey-level or color image, by optimizing the Ambrosio-Tortorelli functional (with u a 2-form and v a 0-form).
  * <span sytle="color: #8b0000">at-u0-v1</span>: Computes a piecewise smooth approximation of a grey-level or color image, by optimizing the Ambrosio-Tortorelli functional (with u a 0-form and v a 1-form).
- 
+
+**** 
+
 * **shapeGenerator/**:
     * <span style="color: #00008b">shapeGenerator</span>: generate multigrid shape
     * <span style="color: #00008b">contourGenerator</span>: generate multigrid shape contours
