@@ -80,7 +80,7 @@ The source code of the tools can also be used to non DGtal familiar user to sho
 
 **** 
 
-* **shapeGenerator/**:
+*   **shapeGenerator/**:
     * <span style="color: #00008b">shapeGenerator</span>: generate multigrid shape
     * <span style="color: #00008b">contourGenerator</span>: generate multigrid shape contours
 
