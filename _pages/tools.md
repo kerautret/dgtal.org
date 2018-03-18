@@ -132,7 +132,7 @@ The source code of the tools can also be used to non DGtal familiar user to sho
 
 
 ### DGtalTools-contrib content:
-At the moment the DFtalTools-contrib project is organized as follows (<span style="color: #00008b">new</span> or <span style="color: #00008b">improved</span> in 0.9.3):
+At the moment the DFtalTools-contrib project is organized as follows (<span style="color: #00008b">new</span> or <span style="color: #00008b">improved</span> in 0.9.4):
 
 * **Geometry2d/**: 
   - <span style="color: #00008b">houghLineDetect</span>: to detect line segment from Hough transform (using OpenCV). 
@@ -166,10 +166,10 @@ At the moment the DFtalTools-contrib project is organized as follows (<span styl
 
 You can get the DGtalTools by using git:
 
-```git clone git://github.com/DGtal-team/DGtalTools.git``` or the source archive: [DGtalTools-0.9.3-Source.tar.gz][5] 
+```git clone git://github.com/DGtal-team/DGtalTools.git``` or the source archive: [DGtalTools-0.9.4-Source.tar.gz][5] 
 
 or the DGtalTools-contrib:
-```git clone git://github.com/DGtal-team/DGtalTools-contrib.git``` or the source archive: [DGtalTools-contrib-0.9.3-Source.tar.gz][6] 
+```git clone git://github.com/DGtal-team/DGtalTools-contrib.git``` or the source archive: [DGtalTools-contrib-0.9.4-Source.tar.gz][6] 
 
 
 Installation:
@@ -181,5 +181,5 @@ Installation:
  [2]: http://github.com/DGtal-team/DGtalTools-contrib 
  [3]: http://www.ipol.im
  [4]: http://dgtal.org/doc/stable/packageTutorials.html
- [5]: https://github.com/DGtal-team/DGtalTools/archive/0.9.3.tar.gz
- [6]: https://github.com/DGtal-team/DGtalTools-contrib/archive/0.9.3.tar.gz
+ [5]: https://github.com/DGtal-team/DGtalTools/archive/0.9.4.tar.gz
+ [6]: https://github.com/DGtal-team/DGtalTools-contrib/archive/0.9.4.tar.gz
