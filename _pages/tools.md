@@ -138,8 +138,9 @@ At the moment the DFtalTools-contrib project is organized as follows (<span styl
   - <span style="color: #00008b">houghLineDetect</span>: to detect line segment from Hough transform (using OpenCV). 
   - meaningFullThickness: to display the meaningful thickness of digital contour.
   - **<span style="color: #00008b">distanceTransform/</span>**:
-     - <span style="color: #00008b">LUTBasedNSDistanceTransform</span>: Compute the 2D translated neighborhood-sequence distance transform of a binary imag
+     - <span style="color: #008b00">LUTBasedNSDistanceTransform</span>: Compute the 2D translated neighborhood-sequence distance transform of a binary imag
      - <span style="color: #00008b">CumulativeSequenceTest</span> and <span style="color: #00008b">RationalBeattySequenceTest</span>: tests from LUTBasedNSDistanceTransform.
+  - <span style="color: #8b0000">thresholdRosin</span>: implementation of Rosin's algorithm to compute threshold of an unimodal intensity histogram 
 
 * * * *
 
@@ -147,6 +148,8 @@ At the moment the DFtalTools-contrib project is organized as follows (<span styl
   - <span style="color: #00008b">basicEditMesh</span>: to apply basic mesh edition (scale change, mesh face contraction, face filtering).
   - <span style="color: #00008b">basicMorphoFilter</span>: apply basic morpho filter from a ball structural element.
   - <span style="color: #00008b">computeMeshDistances</span>: computes for each face of a mesh A the minimal distance to another mesh B.
+  - <span style="color: #8b000">off2sdp</span>: a tool to convert a mesh into a set of points (.sdp).
+  - <span style="color: #8b0000">off2obj</span>: tool to convert a mesh represented in off format into obj format.
   - <span style="color: #00008b">volLocalMax</span>: extract the local maximas of a vol image within a spherical kernel.
   - <span style="color: #00008b">xyzScale</span>: a basic tool to adjust the scale of an xyz file.
 
@@ -155,7 +158,7 @@ At the moment the DFtalTools-contrib project is organized as follows (<span styl
 * **Visualisation/**:
   - <span style="color: #00008b">displayLineSegments</span>:  new tool allowing to display line segment in an output image.
   - <span style="color: #00008b">displayTgtCoverAlphaTS</span>: to display alpha-thick segment given on a simple contour.
-  - <span style="color: #00008b">graphViewer</span>: add a new tool allowing to display graph from edges, vertex and radii.
+  - <span style="color: #008b00">graphViewer</span>: add a new tool allowing to display graph from edges, vertex and radii.
   - <span style="color: #00008b">meshViewerEdit</span>: tool to visualize a mesh and to apply simple edits (face removal, color edits...).
 
 
